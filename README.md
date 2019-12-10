@@ -30,7 +30,7 @@ Será ofertado aos participantes um certificado de participação do módulo 1 c
 
 ## Bibliografia sugerida  
 [1] [Mas o que é uma rede Neural?](https://www.youtube.com/watch?v=aircAruvnKk)  
-[2] [Descida de gradiente, como as redes neurais aprendem.] (https://www.youtube.com/watch?v=IHZwWFHWa-w)  
+[2] [Descida de gradiente, como as redes neurais aprendem.](https://www.youtube.com/watch?v=IHZwWFHWa-w)  
 [3] [O que o backpropagation realmente faz?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)  
 [4] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.  
 [5] Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." arXiv preprint arXiv:1411.1784 (2014).  
