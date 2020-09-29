@@ -1,0 +1,4 @@
+.DS_Store
+derby.log
+.ipynb_checkpoints/
+__pycache__/
